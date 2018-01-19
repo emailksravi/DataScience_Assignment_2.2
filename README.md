@@ -26,4 +26,4 @@ import pattern_display.ipynb in jupyter REPL
 Command to execute : python pattern_display.py
 ```
 
-![alt text](screenshots/pattern_display_command_line.png "Run from command line bash")
+![alt text](screenshots/pattern_display_command_line_bash.png "Run from command line bash")
